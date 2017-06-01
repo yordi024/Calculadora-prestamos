@@ -1,0 +1,18 @@
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.exe.config
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.exe
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora_de_prestamos.Properties.Resources.resources
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.csproj.GenerateResource.Cache
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.exe
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora_de_prestamos.Calculadora.resources
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.exe.config
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.exe
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\bin\Debug\Calculadora de prestamos.pdb
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.csprojResolveAssemblyReference.cache
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora_de_prestamos.Calculadora.resources
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora_de_prestamos.Properties.Resources.resources
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.csproj.GenerateResource.Cache
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.exe
+C:\Users\Yordi\Desktop\Calculadora de prestamos\Calculadora de prestamos\obj\Debug\Calculadora de prestamos.pdb
